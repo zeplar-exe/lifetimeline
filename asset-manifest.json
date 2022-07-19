@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lifetimeline/static/css/main.51447410.css",
+    "main.js": "/lifetimeline/static/js/main.1158fcc7.js",
+    "static/js/787.9f926801.chunk.js": "/lifetimeline/static/js/787.9f926801.chunk.js",
+    "index.html": "/lifetimeline/index.html",
+    "main.51447410.css.map": "/lifetimeline/static/css/main.51447410.css.map",
+    "main.1158fcc7.js.map": "/lifetimeline/static/js/main.1158fcc7.js.map",
+    "787.9f926801.chunk.js.map": "/lifetimeline/static/js/787.9f926801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51447410.css",
+    "static/js/main.1158fcc7.js"
+  ]
+}
